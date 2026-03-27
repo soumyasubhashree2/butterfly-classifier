@@ -6,6 +6,7 @@
 #~~~~~~~~~
 
 gradio==4.31.5
+huggingface_hub==0.19.4
 tensorflow==2.15.0
-numpy
-pillow
+numpy==1.26.4
+pillow==10.4.0
